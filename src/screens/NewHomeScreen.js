@@ -18,6 +18,7 @@ const NewHomeScreen = () => {
   const data = [
     { id: '1', image: 'https://fastly.picsum.photos/id/113/200/300.jpg?hmac=DvsBBpPushDywwuMaEX4gQacembMMccz2r-xKWuO82k', videoUri: 'https://d1g3m9ml694eqp.cloudfront.net/1698065327.mp4' },
     { id: '2', image: 'https://www.kasandbox.org/programming-images/avatars/leaf-red.png', videoUri: 'https://d1g3m9ml694eqp.cloudfront.net/1702889929.mp4' },
+    { id: '3', image: 'https://fastly.picsum.photos/id/113/200/300.jpg?hmac=DvsBBpPushDywwuMaEX4gQacembMMccz2r-xKWuO82k', videoUri: 'https://d1g3m9ml694eqp.cloudfront.net/1698065327.mp4' },
     // Add more items as needed
   ];
 

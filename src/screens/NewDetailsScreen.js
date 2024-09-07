@@ -14,8 +14,9 @@ const NewDetailsScreen = ({ videoUri, closeParentModal }) => {
   const translateY = useRef(new Animated.Value(300)).current;
 
   const data = [
-    { id: '1', title: 'Item 1', color: 'red', videoUri },
+    { id: '1', title: 'Item 1', color: 'orange', videoUri },
     { id: '2', title: 'Item 2', color: 'blue', videoUri },
+    { id: '3', title: 'Item 3', color: 'red', videoUri },
     // Add more items as needed
   ];
 
